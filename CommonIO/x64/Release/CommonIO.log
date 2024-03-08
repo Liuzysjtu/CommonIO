@@ -1,0 +1,8 @@
+﻿  Building 'CommonIO' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DrvMain.cpp
+  CommonIO.vcxproj -> D:\work\reverse-repo\CommonIO\x64\Release\CommonIO.sys
+  Done Adding Additional Store
+  Successfully signed: D:\work\reverse-repo\CommonIO\x64\Release\CommonIO.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
